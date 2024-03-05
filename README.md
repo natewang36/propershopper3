@@ -237,3 +237,4 @@ The Player’s curr_cart is the index in observation.carts of the cart the playe
 * The observation has some helper methods that may come in handy. You can rely on the individual objects’ collision() and canInteract() methods (they’re identical to those in the python simulation); be a bit more wary of the other ones. The helper methods are still very much under active development.
 # propershopper4
 # propershopper4
+# propershopper4

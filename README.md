@@ -235,3 +235,4 @@ The Player’s curr_cart is the index in observation.carts of the cart the playe
   * If the user is not currently interacting with an object (i.e., if no interaction message is on the screen), interactive_stage=-1 and total_stages=0.
   * Otherwise, the user is interacting with some object; interactive_stage is the (zero-indexed) current stage, and total_stages will be 1 or 2 depending on if the interaction in question is a zero-stage interaction.
 * The observation has some helper methods that may come in handy. You can rely on the individual objects’ collision() and canInteract() methods (they’re identical to those in the python simulation); be a bit more wary of the other ones. The helper methods are still very much under active development.
+# propershopper4
